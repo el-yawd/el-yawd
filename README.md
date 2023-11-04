@@ -4,7 +4,7 @@
 
 Hi, it's nice have you here.
 
-I'm a software developer trying not only things works
+I'm a software developer trying not only make things works
 but doing that in the right way. Talk any computer-related stuff with me (just don't
 try make me use windows) i never get tired. :)
 
