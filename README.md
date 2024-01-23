@@ -5,7 +5,7 @@
 Hi , it's nice have you here.
 
 I'm a software developer trying to not only make things works
-but doing that in the right way. I'm currently focused on back-end development, specially with Nestjs. Talk any computer-related stuff with me (just don't try make me use windows) i never get tired. :)
+but doing that in the right way. I'm currently focused on back-end development, specially with Nestjs. Talk any computer-related stuff with me (just don't try make me use windows) I never get tired. :)
 
 ## 💪 GitHub Stats
 
