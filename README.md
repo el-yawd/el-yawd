@@ -2,10 +2,9 @@
 ### Welcome 👋
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diegoreis42-badge)
 
-Hi , it's nice have you here.
+Hi! Great to have you here.
 
-I'm a software developer trying to not only make things works
-but doing that in the right way. I'm currently focused on back-end development, specially with Nestjs. Talk any computer-related stuff with me (just don't try make me use windows) I never get tired. :)
+I'm a software developer trying to not only make things work, but do it the right way. I'm currently focused on back-end development, mainly with Nestjs and Spring boot. Talk to me about anything computer-related (just don't try to make me use Windows). I never get tired. :)
 
 ## 💪 GitHub Stats
 
