@@ -8,7 +8,7 @@ I'm a software developer trying to not only make things works, but doing it in t
 
 ## 💪 GitHub Stats
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegoreis42&theme=dark&hide_border=true&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegoreis42&theme=dark&hide_border=true&mode=weekly&hide_total_contributions=true)
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoreis42&show_icons=true&theme=radical)
 
