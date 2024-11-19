@@ -4,7 +4,7 @@
 
 Hi! It's great to have you here.
 
-I'm a software developer trying to not only make things work, but doing it in the right way. I think that to become lay-off-proof you need to understand things (not only computer things) deeply, I'm not there yet but i'm on track. Currently i'm focused in study distributed systems (here are some good resources to start [nice blogs](https://blog.diegoreis.me/lists/blogs/)), and contributing to Open Source projects. Talk to me about any computer-related (just don't try to make me use Windows). I never get tired :)
+I'm a software developer trying to not only make things works, but doing it in the right way. I think that to become lay-off-proof you need to understand things (not only computer things) deeply, I'm not there yet but I'm on track. Currently I'm focused in studying distributed systems (here are some good resources to [start](https://blog.diegoreis.me/lists/blogs/)), and contributing to Open Source projects. Talk to me about any computer-related stuff (just don't try to make me use Windows). I never get tired :)
 
 ## 💪 GitHub Stats
 
