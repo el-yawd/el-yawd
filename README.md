@@ -4,8 +4,7 @@ Do stuff with computers
 
 Trying to find meaning through the pursuit of mastery
 
-Rustacean :crab:
-
+![Glider Hacker Symbol](./glider.png)
 ## Stats
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoreis42&show_icons=true&theme=radical)
