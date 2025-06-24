@@ -1,10 +1,3 @@
-# $ whoami
-
-Do stuff with computers
-
-Trying to find meaning through the pursuit of mastery
-
-![Glider Hacker Symbol](./glider.png)
 ## Stats
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=el-yawd&show_icons=true&theme=radical)
