@@ -1,3 +1,9 @@
+> I think it's time we blow this scene
+>
+> Get everybody and their stuff together
+> 
+> Okay, three, two, one, let's jam...
+
 ## Stats
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=el-yawd&show_icons=true&theme=radical)
